@@ -3,6 +3,7 @@
 body{
 	margin:0px;
 	padding:0px;
+	background:#000;
 	font-family:myriad pro;}
 	a{
 		text-decoration:none;}
@@ -131,23 +132,23 @@ body{
 						.close:hover,.close:focus{
 							color:red;
 							cursor:pointer;}	
-							button{
-								background-color:#f44e52;
-								box-shadow:0px 2px 12px rgba(0,0,0,0.4);
-								text-shadow:0px 2px 12px rgba(0,0,0,0.6);
-								color:white;
-								padding:14px 20px;
-								margin:8px 26px;
-								border-radius:10px;
-								border:none;
-								cursor:pointer;
-								width:200px;
-								font-size:20px;
-								position:absolute;
-								bottom:0px;
-								left:70%;
-								transform:translateX(-70%);
-								}
+							button {
+								background-color: #fff;
+								box-shadow: 0px 2px 12px rgba(0,0,0,0.4);
+								text-shadow: 0px 2px 12px rgba(0,0,0,0.6);
+								color: black;
+								padding: 14px 20px;
+								margin: 8px 26px;
+								border-radius: 10px;
+								border: none;
+								cursor: pointer;
+								width: 200px;
+								font-size: 20px;
+								position: absolute;
+								bottom: 0px;
+								left: 70%;
+								transform: translateX(-70%);
+							}
 								button:hover{
 									opacity:0.8;}		
 								
